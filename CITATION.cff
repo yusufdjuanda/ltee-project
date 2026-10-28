@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "LTEE Project"
+abstract: "A reproducible analysis project for LTEE variant calling"
+type: software
+authors:
+  - given-names: "yusuf"
+    family-names: "djuanda"
+    email: "yusuf.djuanda97@gmail.com"
+    orcid: "https://orcid.org/0009-0005-3569-3761"
+repository-code: "https://github.com/yusufdjuanda/ltee-project"
+license: MIT
+version: 0.1.0
+date-released: "2026-10-26"
