@@ -9,3 +9,5 @@ Typical files:
 - `checksums.sha256`: checksums of the raw files you keep, so anyone can check
   they have the same data (`shasum -a 256 -c metadata/checksums.sha256`).
 - `README.md` (this file): a data dictionary that explains every column.
+
+The reads were trimmed and subsampled by Data Carpentry.
